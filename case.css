@@ -1,0 +1,15 @@
+body{	
+	margin: 0
+}
+header{
+	padding: 3%; background:green; text-align: center;
+}
+header h2{
+	margin:0; padding: 0;
+}
+section{
+	padding: 3%; background: red;
+}
+footer{
+	padding: 3%; background:green;
+}
